@@ -15,7 +15,7 @@ Note: Make sure you have Node.js installed, if you don't then you can download i
 - Run the compile.bat provided along with the source to automate the building process.
 Note: If you get an error, or the terminal instantly closes, run the following command:
 ```
-npm install electron-packager
+npm install --save-dev electron-packager
 ```
 This installs the required packager for building this project.
 
